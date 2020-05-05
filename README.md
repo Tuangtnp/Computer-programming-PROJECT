@@ -13,14 +13,14 @@
   * LED RGB(common cathode) 5mm
   * Resister 220 Ω
 ## Schematic diagram ##
-![alt text](howtoconnect.png)
+![](howtoconnect.png)
 ## Team ##
   * นายจิรายุทธ ดอกกะฐิน 62070035
   * นายธนพัฒน์ สุยะพงษ์ 62070079
   * นายนฐพล ตานี 62070098
   * นางสาววินัฐธิดา ภูมิดอนมิ่ง 61070207
 ## Poster ##
-![alt text](poster-1.jpg)
+![](poster-1.jpg)
 
 ## Link Video ##
 https://youtu.be/Y4He-0F_8lA

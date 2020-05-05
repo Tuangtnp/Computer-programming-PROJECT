@@ -13,14 +13,15 @@
   * LED RGB(common cathode) 5mm
   * Resister 220 Ω
 ## Schematic diagram ##
-![Image description](https://github.com/Tuangtnp/Computer-programming-PROJECT/blob/master/poster/poster-1.jpg?raw=true)
+![Image description](https://github.com/Tuangtnp/Computer-programming-PROJECT/blob/master/hardware/howtoconnect.png?raw=true)
+
 ## Team ##
   * นายจิรายุทธ ดอกกะฐิน 62070035
   * นายธนพัฒน์ สุยะพงษ์ 62070079
   * นายนฐพล ตานี 62070098
   * นางสาววินัฐธิดา ภูมิดอนมิ่ง 61070207
 ## Poster ##
-![](poster-1.jpg)
+![Image description](https://github.com/Tuangtnp/Computer-programming-PROJECT/blob/master/poster/poster-1.jpg?raw=true)
 
 ## Link Video ##
 https://youtu.be/Y4He-0F_8lA

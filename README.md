@@ -1,7 +1,10 @@
 # Computer-programming-PROJECT
 
+## Link Video ##
+https://youtu.be/Y4He-0F_8lA
+
 ## Introduction ##
-  โครงงานนี้จัดทำขึ้นเพื่อบอกให้รู้ถึงปริมาณของฝุ่นขนาดเล็กในอากาศนั้นก็คือ PM 2.5 ได้โดยเร็วแต่อาจจะมีการคาดเคลื่อนบ้างเล็กน้อย
+  โครงงานนี้จัดทำขึ้นเพื่อเป็นเครื่องมือในการบ่งบอกให้รู้ถึงปริมาณของฝุ่นละอองขนาดเล็กในอากาศ(PM 2.5)ของแต่ละพื้นที่ได้อย่างรวดเร็ว ซึ่งอาจจะมีการคาดเคลื่อนบ้างเล็กน้อย
   
 ## Compoments and supplies ##
   * Arduino R3 และ USB type A หรือ USB type B
@@ -23,5 +26,3 @@
 ## Poster ##
 ![Image description](https://github.com/Tuangtnp/Computer-programming-PROJECT/blob/master/poster/poster-1.jpg?raw=true)
 
-## Link Video ##
-https://youtu.be/Y4He-0F_8lA

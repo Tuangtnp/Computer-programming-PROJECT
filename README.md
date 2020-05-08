@@ -25,6 +25,8 @@
 ![Image description](https://github.com/Tuangtnp/Computer-programming-PROJECT/blob/master/poster/poster-1.jpg?raw=true)
 
 ## Team ##
+#### ผลงานชิ้นนี้เป็นส่วนหนึ่งของรายวิชา COMPUTER PROGRAMMING รหัสวิชา 06016315 ประจำปีการศึกษา 2562 ####
+#### โดยมีผู้จัดทำดังนี้ ####
   * นายจิรายุทธ ดอกกะฐิน 62070035
   * นายธนพัฒน์ สุยะพงษ์ 62070079
   * นายนฐพล ตานี 62070098

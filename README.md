@@ -7,7 +7,7 @@
   โครงงานนี้จัดทำขึ้นเพื่อเป็นเครื่องมือในการบ่งบอกให้รู้ถึงปริมาณของฝุ่นละอองขนาดเล็กในอากาศ(PM 2.5)ของแต่ละพื้นที่ได้อย่างรวดเร็ว ซึ่งอาจจะมีการคาดเคลื่อนบ้างเล็กน้อย
   
 ## Compoments and supplies ##
-  * Arduino R3 และ USB type A หรือ USB type B
+  * Arduino R3 และ USB type A to USB type B
   * PMS7003, PMS5003 หรือ PMS3003
   * Breadboard 400 point
   * สาย Jumper 10 male to male เส้น 20cm.

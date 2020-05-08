@@ -10,7 +10,7 @@
   * Arduino R3 และ USB type A to USB type B
   * PMS7003, PMS5003 หรือ PMS3003
   * Breadboard 400 point
-  * สาย Jumper 10 male to male เส้น 20cm.
+  * สาย Jumper male to male 10 เส้น 20cm และ female to male 10 เส้น 20cm  
   * จอ LCD I2C 16x2
   * ขั่วถ่าน 9V และ ถ่าน 9V
   * LED RGB(common cathode) 5mm

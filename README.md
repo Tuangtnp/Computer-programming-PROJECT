@@ -1,7 +1,7 @@
 # Computer-programming-PROJECT
 
-## Link Video ##
-https://youtu.be/Y4He-0F_8lA
+## Video ##
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Y4He-0F_8lA/0.jpg)](https://www.youtube.com/watch?v=Y4He-0F_8lA)
 
 ## Introduction ##
   โครงงานนี้จัดทำขึ้นเพื่อเป็นเครื่องมือในการบ่งบอกให้รู้ถึงปริมาณของฝุ่นละอองขนาดเล็กในอากาศ(PM 2.5)ของแต่ละพื้นที่ได้อย่างรวดเร็ว ซึ่งอาจจะมีการคาดเคลื่อนบ้างเล็กน้อย
@@ -19,7 +19,7 @@ https://youtu.be/Y4He-0F_8lA
 ![Image description](https://github.com/Tuangtnp/Computer-programming-PROJECT/blob/master/hardware/howtoconnect.png?raw=true)
 
 ## Example ##
-![Image description](https://github.com/Tuangtnp/Computer-programming-PROJECT/blob/master/images/PM2.5detector_example.png)
+![Image description](https://github.com/Tuangtnp/Computer-programming-PROJECT/blob/master/images/PM2.5detector_example.png?raw=true)
 
 ## Poster ##
 ![Image description](https://github.com/Tuangtnp/Computer-programming-PROJECT/blob/master/poster/poster-1.jpg?raw=true)
